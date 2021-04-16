@@ -3,7 +3,7 @@
 [NLSEB PhD and Postdoc Day](http://nlseb.nl/nlseb2021-phd-postdoc-meeting/) workshop: online collaboration using git and GitHub
 
  * When: Monday April 19 2021 10.45-12.15 in Workshop session I
- * Where: https://gather.town/ (exact link will follow)
+ * Where:  https://gather.town/i/ALM0dO9o
 
 ## Description
 
