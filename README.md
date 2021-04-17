@@ -74,36 +74,45 @@ At Big Table:
  * Make participants add, commit, push, and solve merge conflicts
  * Demo: branching
 
-
 ## Cheat sheet
 
-### Getting started
-
-Do this once:
+### Your First Clone
 
 ```
 git clone https://github.com/richelbilderbeek/nlseb_collaboration_20210419.git
-git config --global user.name "richelbilderbeek"
-git config --global user.email richel@richelbilderbeek.nl
-```
-
-Then always start with:
-
-```
 cd nlseb_collaboration_20210419
 ```
 
-### Main workflow
+### Your First Push
 
 ```
-git pull
-notepad article.md
+mousepad report_1.md
 git add .
-git commit -m "What I did, progress #314"
+git commit -m "What I did"
+git config --global user.name "richelbilderbeek"
+git config --global user.email richel@richelbilderbeek.nl
+git commit -m "What I did"
 git push
 ```
 
-### Main workflow
+### The vim spell
+
+Whenever you see `vim`, do `escape`, then `:wq`, then `enter`.
+
+![](vim.png)
+
+### Your Second Push
+
+```
+git pull
+mousepad report_1.md
+git add .
+git commit -m "What I did"
+git push
+```
+
+
+### Branching
 
 ```
 git checkout richel
@@ -125,40 +134,3 @@ git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=36000'
 ```
 
-
-
-
-
-
-git clone https://github.com/richelbilderbeek/nlseb_collaboration_20210419.git
-mousepad README.md 
-git add .
-git commit -m "test"
-
-
-git config --global user.email "richel@richelbilderbeek.nl"
-git config --global user.name "richelbilderbeek"
-
-git commit -m "test again"
-
-
-git push
-[give username]
-[give password
-
-demo@N141CU:~/nlseb_collaboration_20210419$ git push
-Username for 'https://github.com': richelbilderbeek
-Password for 'https://richelbilderbeek@github.com': 
-
-
-
-git config --global credential.helper cache
-git config --global credential.helper "cache --timeout=36000"git push
-[give username]
-[give password
-
-
-No vim, but mousepad
-git config --global core.editor mousepad
-
-TEST 
