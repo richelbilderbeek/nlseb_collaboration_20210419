@@ -34,6 +34,8 @@ When |What
 
 ## Detailed schedule
 
+### Overview
+
 At Big Table:
 
  * Title: Online collaboration using git and GitHub
@@ -42,14 +44,32 @@ At Big Table:
    * Observable: 
      * all participants assigned to an Issue and put it in the right column
      * at least 2 commits per participant
- * Demo: project page, assign Issue
 
+### Assign Issue: clone repo
+
+ * Demo: project page, assign Issue
  * Put people in groups based on their name, 
    there should be at least 2 participants per section
+
+### Your First Clone
+
  * Demo: get started: clone, cd and edit
+   * Start of video 'your first git push' [YouTube](https://youtu.be/yoDW8QCjTcY) [download (.ogv)](http://richelbilderbeek.nl/git_first_push.ogv)
  * Make participants clone and edit manuscript
+ * Close Issue
+
+### Your First Push
+
  * Demo: basic workflow
+   * Assign Issue
+   * Basic git workflow
+   * Close Issue
+   * Second half of video 'your first git push' [YouTube](https://youtu.be/yoDW8QCjTcY) [download (.ogv)](http://richelbilderbeek.nl/git_first_push.ogv)
+   * Weird things? Share with table. Entire table done/weird: come back
  * Make participants add, commit, push, until merge conflict
+
+### Your First Merge Conflict
+
  * Demo: merge conflict: why important, how to fix it, demo
  * Make participants add, commit, push, and solve merge conflicts
  * Demo: branching
