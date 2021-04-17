@@ -137,3 +137,4 @@ git config --global credential.helper "cache --timeout=36000"git push
 No vim, but mousepad
 git config --global core.editor mousepad
 
+TEST 
