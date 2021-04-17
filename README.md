@@ -47,9 +47,10 @@ At Big Table:
 
 ### Assign Issue: clone repo
 
+At Big Table:
+
  * Demo: project page, assign Issue
- * Put people in groups based on their name, 
-   there should be at least 2 participants per section
+ * Put people in four groups based on their name
 
 ### Your First Clone
 
