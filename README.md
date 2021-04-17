@@ -4,6 +4,7 @@
 
  * When: Monday April 19 2021 10.45-12.15 in Workshop session I
  * Where:  https://gather.town/i/ALM0dO9o
+ * Video: your first git push [YouTube](https://youtu.be/yoDW8QCjTcY) [download (.ogv)](http://richelbilderbeek.nl/git_first_push.ogv)
 
 ## Description
 
@@ -32,6 +33,8 @@ When |What
 
 ## Detailed schedule
 
+At Big Table:
+
  * Title: Online collaboration using git and GitHub
  * Why important
  * Goal: Having worked with git and GitHub for at least 2 cycles
@@ -39,6 +42,7 @@ When |What
      * all participants assigned to an Issue and put it in the right column
      * at least 2 commits per participant
  * Demo: project page, assign Issue
+
  * Put people in groups based on their name, 
    there should be at least 2 participants per section
  * Demo: get started: clone, cd and edit
