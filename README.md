@@ -1,5 +1,6 @@
 # Online collaboration using git and GitHub
 
+
 [NLSEB PhD and Postdoc Day](http://nlseb.nl/nlseb2021-phd-postdoc-meeting/) workshop: online collaboration using git and GitHub
 
  * When: Monday April 19 2021 10.45-12.15 in Workshop session I
@@ -104,3 +105,40 @@ git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=36000'
 ```
 
+
+
+
+
+
+git clone https://github.com/richelbilderbeek/nlseb_collaboration_20210419.git
+mousepad README.md 
+git add .
+git commit -m "test"
+
+
+git config --global user.email "richel@richelbilderbeek.nl"
+git config --global user.name "richelbilderbeek"
+
+git commit -m "test again"
+
+
+git push
+[give username]
+[give password
+
+demo@N141CU:~/nlseb_collaboration_20210419$ git push
+Username for 'https://github.com': richelbilderbeek
+Password for 'https://richelbilderbeek@github.com': 
+
+
+
+git config --global credential.helper cache
+git config --global credential.helper "cache --timeout=36000"git push
+[give username]
+[give password
+
+
+No vim, but mousepad
+git config --global core.editor mousepad
+
+TEST 
