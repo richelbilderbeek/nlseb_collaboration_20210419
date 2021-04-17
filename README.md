@@ -32,6 +32,20 @@ When |What
 11:45|Continue
 12:15|End
 
+## Coarse schedule
+
+ * Check install git
+ * Intro
+ * Assign Issue: Clone repo
+ * Your First Clone
+ * Assign Issue: Your First Push
+ * Your First Push
+ * Your First Merge Conflict
+ * Assign Issue: Work On Report
+ * Work On Report
+ * Assign Issue: Your First Branch
+ * Your First Branch
+
 ## Detailed schedule
 
 ### Overview
