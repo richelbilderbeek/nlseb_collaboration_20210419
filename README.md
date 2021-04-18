@@ -34,7 +34,7 @@ When |What
 
 ## Coarse schedule
 
- * Check install git
+ * Check install git and GitHub account
  * Intro
  * Assign Issue: Clone repo
  * Your First Clone
