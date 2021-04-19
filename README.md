@@ -148,13 +148,13 @@ Give password once per 10 hours:
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=36000'
 ```
+
+Richel maybe was on the website again
+
 <<<<<<< HEAD
-TEST
-	
-=======
-
-TEST
-
 >>>>>>> c1937b8f8949d51818bd598fe764eab011dfd21e
 
 I have used Git in the wrong way for over five years - Manon
+=======
+Lisa was also on the website
+>>>>>>> 5bf2c986a5c7b0ae945f4a95d7c07636eb22d68c
