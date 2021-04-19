@@ -16,4 +16,7 @@ Mark Lammers @LammersInsects
 ## References
 
 ## Supplementary Materials
+We collected samples in May
+Figure S1
+Figure S2
 
