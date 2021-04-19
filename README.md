@@ -148,4 +148,7 @@ Give password once per 10 hours:
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=36000'
 ```
+
 Merge conflict yet?
+Richel maybe was on the website again
+Lisa was also on the website
