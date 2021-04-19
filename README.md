@@ -149,4 +149,3 @@ git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=36000'
 ```
 
-Mark was not on the website
