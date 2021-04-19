@@ -166,6 +166,8 @@ Lisa was also on the website
 
 Merge conflict yet?
 Richel maybe was on the website again
+conflict solved?
+
 bla bla
 I have used Git in the wrong way for over five years - Manon
 Lisa was also on the website
