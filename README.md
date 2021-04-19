@@ -70,7 +70,7 @@ At Big Table:
 
  * Demo: get started: clone, cd and edit
    * Start of video 'your first git push' [YouTube](https://youtu.be/yoDW8QCjTcY) [download (.ogv)](http://richelbilderbeek.nl/git_first_push.ogv)
- * Make participants clone and edit manuscript
+ * Make participants clone the repo and navigate into the folder
  * Close Issue
 
 ### Your First Push
