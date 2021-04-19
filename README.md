@@ -7,6 +7,8 @@
  * Video: your first git push [YouTube](https://youtu.be/yoDW8QCjTcY) [download (.ogv)](http://richelbilderbeek.nl/git_first_push.ogv)
  * Example for a colaborative project: [tresinformal's game](https://github.com/tresinformal/game/projects/1)
 
+
+
 ## Description
 
 In this hands-on introductory workshop,
