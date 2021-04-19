@@ -15,7 +15,8 @@ names <- c(
   "nbrait",
   "SarahDuxbury",
   "simoneweidner",
-  "vissermcde"
+  "vissermcde",
+  "wmakkinje"
 )
 
 names <- "richelbilderbeek"
