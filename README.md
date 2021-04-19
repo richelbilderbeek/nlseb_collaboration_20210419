@@ -156,3 +156,5 @@ TEST
 TEST
 
 >>>>>>> c1937b8f8949d51818bd598fe764eab011dfd21e
+
+I have used Git in the wrong way for over five years - Manon
