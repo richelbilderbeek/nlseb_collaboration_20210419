@@ -149,7 +149,4 @@ git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=36000'
 ```
 
-<<<<<<< HEAD
 Mark was not on the website
-=======
->>>>>>> 9788b21aa4b73d957e52ccbed53ebf993b0f129b
