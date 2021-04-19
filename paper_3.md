@@ -5,6 +5,7 @@
 ## Introduction
 
 ## Methods
+First, we prepared all materials we need. Then we mix them together with suger, salt...
 
 ## Discussion
 
