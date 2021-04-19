@@ -12,6 +12,11 @@ Francesco Garassino @FrancescoGarassino
 
 ## Discussion
 
+We have proven that our numerical approach in the Hilbert space is successful in solving the fuzzy Atangana-Baleanu fractional hybrid system.
+We believe this approach will be extremely helpful in further investigation of fuzzy fractional hybrid system, and propose further investigation of other numerical approaches.
+
+Lorem ipsum.
+
 ## References
 
 ## Supplementary Materials
