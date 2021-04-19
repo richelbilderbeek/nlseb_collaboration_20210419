@@ -1,25 +1,6 @@
-names <- c(
-  "CamilleTroisi",
-  "chikhyjanet",
-  "cwtyson",
-  "elp9",
-  "FrancescoGarassino",
-  "FrejaGam",
-  "Jia-Xiu",
-  "LammersInsects", #that's me, Mark :D
-  "lisavansluijs",
-  "Mahdere",
-  "maopeng2018",
-  "meijer-jeroen",
-  "MLindner0",
-  "nbrait",
-  "SarahDuxbury",
-  "simoneweidner",
-  "vissermcde",
-  "wmakkinje"
+processed_names <- c(
+  "richelbilderbeek"
 )
-
-names <- "richelbilderbeek"
 
 n <- length(names)
 t <- tibble::tibble(
