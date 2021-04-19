@@ -1,11 +1,11 @@
 # Online collaboration using git and GitHub
 
-
 [NLSEB PhD and Postdoc Day](http://nlseb.nl/nlseb2021-phd-postdoc-meeting/) workshop: online collaboration using git and GitHub
 
  * When: Monday April 19 2021 10.45-12.15 in Workshop session I
  * Where:  https://gather.town/i/ALM0dO9o
  * Video: your first git push [YouTube](https://youtu.be/yoDW8QCjTcY) [download (.ogv)](http://richelbilderbeek.nl/git_first_push.ogv)
+ * Example for a colaborative project: [tresinformal's game](https://github.com/tresinformal/game/projects/1)
 
 ## Description
 
@@ -70,7 +70,7 @@ At Big Table:
 
  * Demo: get started: clone, cd and edit
    * Start of video 'your first git push' [YouTube](https://youtu.be/yoDW8QCjTcY) [download (.ogv)](http://richelbilderbeek.nl/git_first_push.ogv)
- * Make participants clone and edit manuscript
+ * Make participants clone the repo and navigate into the folder
  * Close Issue
 
 ### Your First Push
@@ -148,4 +148,11 @@ Give password once per 10 hours:
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=36000'
 ```
+<<<<<<< HEAD
+TEST
+	
+=======
 
+TEST
+
+>>>>>>> c1937b8f8949d51818bd598fe764eab011dfd21e
