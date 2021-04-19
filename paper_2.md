@@ -15,7 +15,6 @@ Francesco Garassino @FrancescoGarassino
 ## References
 
 ## Supplementary Materials
-We collected samples in May
-Figure S1
-Figure S2
+Figure S1. Map shows our sampling scheme
+Figure S2. The scatter plot respresents the deviation of observed values from the null model
 
