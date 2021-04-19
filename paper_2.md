@@ -2,14 +2,17 @@
 
 ## Authors
 Mark Lammers @LammersInsects
+Francesco Garassino @FrancescoGarassino
 
 ## Abstract
-
-1st line by Francesco
 
 ## Introduction
 
 ## Methods
+We love fuzzy systems, so choosing this AB fractional hybrids (excuse our jargon) was our study sytem.
+By applying a lot of numbers and fractioning them in Hilbert space, more numbrs were calculated.
+Then applied fuzzy statistics in an attempt to solve a hybrid problem. 
+We think this may work.
 
 ## Discussion
 
