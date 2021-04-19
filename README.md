@@ -7,6 +7,8 @@
  * Video: your first git push [YouTube](https://youtu.be/yoDW8QCjTcY) [download (.ogv)](http://richelbilderbeek.nl/git_first_push.ogv)
  * Example for a colaborative project: [tresinformal's game](https://github.com/tresinformal/game/projects/1)
 
+
+
 ## Description
 
 In this hands-on introductory workshop,
@@ -148,9 +150,30 @@ Give password once per 10 hours:
 git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=36000'
 ```
+TEST by KBr
+
+
+
+
+
+Richel maybe was on the website again
+bla bla bla
+
+
+
+I have used Git in the wrong way for over five years - Manon
+Lisa was also on the website
 
 Merge conflict yet?
 Richel maybe was on the website again
+conflict solved?
+
 bla bla
 I have used Git in the wrong way for over five years - Manon
 Lisa was also on the website
+<<<<<<< HEAD
+Let's see if I'm doing it right this time - Nadja
+>>>>>>> b1ef3fcd66b15dee0b6a24ac68b1f2c5a8a302e5
+=======
+Solving all the conflicts :D
+>>>>>>> c1476a7449dcd8e63d243c1714aa05dd48b80732
