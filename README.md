@@ -149,8 +149,11 @@ git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=36000'
 ```
 
+<<<<<<< HEAD
+=======
 Merge conflict yet?
 Richel maybe was on the website again
 bla bla
 I have used Git in the wrong way for over five years - Manon
 Lisa was also on the website
+>>>>>>> b1ef3fcd66b15dee0b6a24ac68b1f2c5a8a302e5
