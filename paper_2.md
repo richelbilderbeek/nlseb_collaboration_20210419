@@ -1,8 +1,10 @@
 # Numerical approach in the Hilbert space to solve a fuzzy Atangana-Baleanu fractional hybrid system
 
-## Abstract
+## Authors
+Mark Lammers @LammersInsects
+Francesco Garassino @FrancescoGarassino
 
-1st line by Francesco
+## Abstract
 
 ## Introduction
 
