@@ -1,22 +1,34 @@
-names <- c(
+# A-E: CamilleTroisi, chikhyjanet, cwtyson, elp9
+# F-L: FrancescoGarassino, FrejaGam, Jia-Xiu, LammersInsects, lisavansluijs
+# M-R: Mahdere, maopeng2018, meijer-jeroen, MLindner0, nbrait
+# S-Z: SarahDuxbury, simoneweidner, vissermcde, wmakkinje
+
+processed_names <- c(
   "CamilleTroisi",
   "chikhyjanet",
   "cwtyson",
-  "elp9",
   "FrancescoGarassino",
   "FrejaGam",
   "Jia-Xiu",
   "LammersInsects",
   "lisavansluijs",
   "Mahdere",
-  "maopeng2018",
-  "meijer-jeroen",
   "MLindner0",
   "nbrait",
   "SarahDuxbury",
   "simoneweidner",
   "vissermcde",
-  "wmakkinje"
+  "elp9",
+  "maopeng2018",
+  "xiaoyanlong",
+  "wmakkinje",
+  "meijer-jeroen"
+)
+
+
+
+names <- c(
+  "PedroBeschoren"
 )
 
 names <- "richelbilderbeek"
