@@ -5,6 +5,7 @@
 ## Introduction
 
 ## Methods
+First, we prepared all materials we need. Then we mix them together with suger, salt...
 
 ## Discussion
 We can see that it is not easy to get started in git and github, but in the end we kind of manage. 
