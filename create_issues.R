@@ -1,37 +1,6 @@
-# A-E: CamilleTroisi, chikhyjanet, cwtyson, elp9
-# F-L: FrancescoGarassino, FrejaGam, Jia-Xiu, LammersInsects, lisavansluijs
-# M-R: Mahdere, maopeng2018, meijer-jeroen, MLindner0, nbrait
-# S-Z: SarahDuxbury, simoneweidner, vissermcde, wmakkinje
-
 processed_names <- c(
-  "CamilleTroisi",
-  "chikhyjanet",
-  "cwtyson",
-  "FrancescoGarassino",
-  "FrejaGam",
-  "Jia-Xiu",
-  "LammersInsects", #that's me, Mark :D
-  "lisavansluijs",
-  "Mahdere",
-  "MLindner0",
-  "nbrait",
-  "SarahDuxbury",
-  "simoneweidner",
-  "vissermcde",
-  "elp9",
-  "maopeng2018",
-  "xiaoyanlong",
-  "wmakkinje",
-  "meijer-jeroen"
+  "richelbilderbeek"
 )
-
-
-
-names <- c(
-  "PedroBeschoren"
-)
-
-names <- "richelbilderbeek"
 
 n <- length(names)
 t <- tibble::tibble(
